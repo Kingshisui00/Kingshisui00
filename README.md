@@ -11,8 +11,8 @@ I'm currently working on project aurora-public MD WhatsApp bot.
 - [Aurora-apis](Link)
 
 ## Contact Me
-- Email: [![Gmail](https://img.shields.io/badge/-Gmail-uchiha%20shisui-white)](https://mail.google.com/banerjeetrisit161@gmail.com)
-- WhatsApp: [![WhatsApp](https://img.shields.io/badge/-WhatsApp-uchiha%20shisui-brightgreen)](https://wa.me/+918961331275)
+- Email: [![Gmail](https://img.shields.io/badge/-Gmail-white)](mailto:banerjeetrisit161@gmail.com)
+- WhatsApp: [![WhatsApp](https://img.shields.io/badge/-WhatsApp-brightgreen)](https://wa.me/+918961331275)
 - Instagram: [![Instagram](https://img.shields.io/badge/Instagram-itz_uchihashisui-red)](https://www.instagram.com/itz_uchihashisui?igshid=ZGUzMzM3NWJiOQ==)
 - Telegram: [![Telegram](https://img.shields.io/badge/Telegram-YourTelegramUsername-blue)](https://t.me/YourTelegramUsername)
 
