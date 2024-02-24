@@ -4,7 +4,7 @@
 I'm a student interested in learning coding WhatsApp bots. I love coding and exploring new technologies.
 
 ## Current Project
-I'm currently working on project aurora-public MD WhatsApp bot. 
+I'm currently working on project aurora-public MD WhatsApp bot and aurora Hitman updated version. Also creating self Api.
 
 ## Public Repositories
 - [Aurora-public-md](Link)
