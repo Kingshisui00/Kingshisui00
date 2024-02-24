@@ -11,6 +11,9 @@ I'm currently working on project aurora-public MD WhatsApp bot and aurora Hitman
 - [Aurora-hitman-updated](Link)
 - [Aurora-apis-readMe](Link)
 
+## Notice
+if you are visiting my page or repo and you want to be a part of a bot you can join us.Our aurora association is taking mods for our public(pubkic MD bots)  and private(ptivate cardgame bots) projects.(we require small bugs fixer, regular maintainer, Api creator or baileys update) 
+
 ## Contact Me
 - Email: [![Gmail](https://img.shields.io/badge/-Gmail-white)](mailto:banerjeetrisit161@gmail.com)
 - WhatsApp: [![WhatsApp](https://img.shields.io/badge/-WhatsApp-brightgreen)](https://wa.me/+918961331275)
