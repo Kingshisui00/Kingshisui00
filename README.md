@@ -7,8 +7,9 @@ I'm a student interested in learning coding WhatsApp bots. I love coding and exp
 I'm currently working on project aurora-public MD WhatsApp bot. 
 
 ## Public Repositories
-- [Aurora-public](Link)
-- [Aurora-apis](Link)
+- [Aurora-public-md](Link)
+- [Aurora-hitman-updated](Link)
+- [Aurora-apis-readMe](Link)
 
 ## Contact Me
 - Email: [![Gmail](https://img.shields.io/badge/-Gmail-white)](mailto:banerjeetrisit161@gmail.com)
