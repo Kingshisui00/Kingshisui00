@@ -4,11 +4,12 @@
 I'm a student interested in learning coding WhatsApp bots. I love coding and exploring new technologies.
 
 ## Current Project
-I'm currently working on project aurora-public MD WhatsApp and Apis for it. 
+I'm currently working on project aurora-public MD WhatsApp, working on apis for our bot and working on a website project.
 
 ## Public Repositories
 - [Aurora-public-md(comming soon)](Link)
-- [Aurora-apis-readMe(comming soon)](Link)
+- [Aurora-apis(comming soon)](Link)
+- [Aurora-web(comming soon)](Link)
 
 ## Notice
 if you are visiting my page or repo and you want to be a part of a bot you can join us.Our aurora association is taking mods for our public(pubkic MD bots)  and private(ptivate cardgame bots) projects.(we require small bugs fixer, regular maintainer, Api creator or baileys update) 
