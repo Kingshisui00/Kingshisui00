@@ -4,19 +4,18 @@
 I'm a student interested in learning coding WhatsApp bots. I love coding and exploring new technologies.
 
 ## Current Project
-I'm currently working on project aurora-public MD WhatsApp, working on apis for our bot and working on a website project.
+I'm currently working on project aurora-public MD WhatsApp bot, apis and certain packages.
 
 ## Public Repositories
-- [Aurora-public-md(comming soon)](Link)
-- [Aurora-apis(comming soon)](Link)
-- [Aurora-web(comming soon)](Link)
+- [Aurora-public(comming soon)](Link)
+- [Aurora-api(comming soon)](Link)
 
 ## Notice
-if you are visiting my page or repo and you want to be a part of a bot you can join us.Our aurora association is taking mods for our public(pubkic MD bots)  and private(ptivate cardgame bots) projects.(we require small bugs fixer, regular maintainer, Api creator or baileys update) 
+if you are visiting my page or repo and you want to be a part of a bot you can join us.we require small bugs fixer, regular maintainer, Api creator or baileys updater
 
 ## Contact Me
 - Email: [![Gmail](https://img.shields.io/badge/-Gmail-white)](mailto:banerjeetrisit161@gmail.com)
-- WhatsApp: [![WhatsApp](https://img.shields.io/badge/-WhatsApp-brightgreen)](https://wa.me/+918961331275)
+- WhatsApp: [![WhatsApp](https://img.shields.io/badge/-WhatsApp-brightgreen)](https://wa.me/+917980329866)
 - Instagram: [![Instagram](https://img.shields.io/badge/Instagram-itz_uchihashisui-red)](https://www.instagram.com/itz_uchihashisui?igshid=ZGUzMzM3NWJiOQ==)
 - Telegram: [![Telegram](https://img.shields.io/badge/Telegram-YourTelegramUsername-blue)](https://t.me/YourTelegramUsername)
 
